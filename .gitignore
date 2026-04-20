@@ -1,0 +1,15 @@
+venv/
+new_env/
+
+# model besar
+*.bin
+*.h5
+*.keras
+*.pkl
+
+# dataset (optional)
+*.csv
+
+__pycache__/
+*.pyc
+.env
