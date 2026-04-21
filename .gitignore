@@ -14,4 +14,5 @@ __pycache__/
 *.pyc
 .env
 
-echo ".DS_Store" >> .gitignore
+# macOS
+.DS_Store
